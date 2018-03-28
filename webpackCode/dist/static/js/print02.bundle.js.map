@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/js/print.js"],"names":["printMe","console","log"],"mappings":"sFACA,SAAAA,IACAC,QAAAC,IAAA","file":"./static/js/print02.bundle.js","sourcesContent":["import _ from \"lodash\";\r\nexport default function printMe() {\r\n  console.log('I get called from print02.js11111!');\r\n}"],"sourceRoot":""}
